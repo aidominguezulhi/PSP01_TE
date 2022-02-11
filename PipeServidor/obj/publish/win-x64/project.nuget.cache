@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ot8dzw+FoniM7zzYxB8a4pu4+GzOFIWiECnYI80zEGYdQRznareW76FgJiEakOA1E4W11fS1Zqn2xwzHyDowNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aitor\\PSP7\\TareaEvaluativa01\\Solution1\\PipeServidor\\PipeServidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

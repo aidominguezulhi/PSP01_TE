@@ -1,0 +1,15 @@
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\PipeServidor.exe
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\PipeServidor.deps.json
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\PipeServidor.runtimeconfig.json
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\PipeServidor.dll
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\ref\PipeServidor.dll
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\bin\Release\net6.0\PipeServidor.pdb
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.csproj.AssemblyReference.cache
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.AssemblyInfoInputs.cache
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.AssemblyInfo.cs
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.csproj.CoreCompileInputs.cache
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.dll
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\ref\PipeServidor.dll
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.pdb
+C:\Users\Aitor\PSP7\TareaEvaluativa01\Solution1\PipeServidor\obj\Release\net6.0\PipeServidor.genruntimeconfig.cache
